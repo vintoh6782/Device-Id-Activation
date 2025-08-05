@@ -1,2 +1,0 @@
-# Device-Id-Activation
-User
